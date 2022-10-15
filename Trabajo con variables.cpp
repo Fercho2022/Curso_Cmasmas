@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-   string nombre="Juan";
+   const string nombre="Juan";
 
    int edad {21};
    double salario;
